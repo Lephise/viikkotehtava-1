@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<palautteet>
+  <palaute>
+    <pvm>11.12.1991</pvm>
+    <tekija>Seppo</tekija>
+    <opittu>en mitään</opittu>
+    <haluanoppia>en mitään</haluanoppia>
+    <hyvaa>ei mikään</hyvaa>
+    <parannettavaa>ei mitään</parannettavaa>
+    <muuta>asdasdf</muuta>
+  </palaute>
+  <palaute>
+    <pvm>11.12.1991</pvm>
+    <tekija>Seppo</tekija>
+    <opittu>en mitään</opittu>
+    <haluanoppia>en mitään</haluanoppia>
+    <hyvaa>ei mikään</hyvaa>
+    <parannettavaa>ei mitään</parannettavaa>
+    <muuta>asdasdf</muuta>
+  </palaute>
+  <palaute>
+    <pvm>11.12.1991</pvm>
+    <tekija>Seppo</tekija>
+    <opittu>asdasd</opittu>
+    <haluanoppia>en mitään</haluanoppia>
+    <hyvaa>ei mikään</hyvaa>
+    <parannettavaa>ei mitään</parannettavaa>
+    <muuta>
+    </muuta>
+  </palaute>
+  <palaute>
+    <pvm>11.12.1991</pvm>
+    <tekija>Aasda</tekija>
+    <opittu>asdasd</opittu>
+    <haluanoppia>asdasd</haluanoppia>
+    <hyvaa>asdasd</hyvaa>
+    <parannettavaa>asdasd</parannettavaa>
+    <muuta>
+    </muuta>
+  </palaute>
+</palautteet>
