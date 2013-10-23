@@ -69,32 +69,39 @@ public partial class Viikkotehtava4_WanhatAutot : System.Web.UI.Page
             grid.DataBind();
         }
 
-        /*EI TOIMI
+        if(merkit.SelectedValue.ToString() != null){
 
-        string merkki = merkit.SelectedValue.ToString();
-        label1.Text = merkki;
-        label2.Text = merkki;
-        DataTable dt2 = (DataTable)grid.DataSource;
+            //string merkki = merkit.SelectedItem.ToString();
+            label1.Text = merkit.SelectedItem.ToString();
+            label2.Text = merkit.SelectedItem.ToString();
+           /* DataTable dt2 = (DataTable)grid.DataSource;
 
-        for (int i = 0; i < 10; i++)
-        {
-            if (grid.Rows[10 - i].Cells[2].Text != merkki)
+            for (int i = 0; i < 10; i++)
             {
+                if (grid.Rows[10 - i].Cells[2].Text != merkit.SelectedItem.ToString())
+                {
 
-                dt2.Rows[10 - i].Delete();
+                    dt2.Rows[10 - i].Delete();
 
+                }
             }
+
+            grid.DataSource = dt2;
+            grid.DataBind();*/
         }
 
-        grid.DataSource = dt2;
-        grid.DataBind();
-        */
+        
+        
 
 
         
     }
 
-   
 
-  
+
+
+    protected void merkit_SelectedIndexChanged(object sender, EventArgs e)
+    {
+
+    }
 }

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<cds>
+  <cd>
+    <Name>Hyvä levy</Name>
+    <isbn>51vn18</isbn>
+    <hinta>24</hinta>
+    <biisit>
+      <biisi>a</biisi>
+      <biisi>b</biisi>
+      <biisi>c</biisi>
+      <biisi>d</biisi>
+    </biisit>
+  </cd>
+
+  <cd name="The Levy">
+    <Name>The Levy</Name>
+    <isbn>74635</isbn>
+    <hinta>42</hinta>
+    <biisit>
+      <biisi>z</biisi>
+      <biisi>x</biisi>
+      <biisi>c</biisi>
+      <biisi>v</biisi>
+    </biisit>
+  </cd>
+
+  <cd name="Loistava Levy">
+    <Name>Loistava Levy</Name>
+    <isbn>58261</isbn>
+    <hinta>35</hinta>
+    <biisit>
+      <biisi>a</biisi>
+      <biisi>s</biisi>
+      <biisi>d</biisi>
+      <biisi>f</biisi>
+    </biisit>
+  </cd>
+
+  <cd name="Huono Levy">
+    <Name>Huono Levy</Name>
+    <isbn>1134</isbn>
+    <hinta>10</hinta>
+    <biisit>
+      <biisi>q</biisi>
+      <biisi>w</biisi>
+      <biisi>e</biisi>
+      <biisi>r</biisi>
+    </biisit>
+  </cd>
+  
+  <cd name="Huonoin Levy">
+    <Name>Huonoin levy</Name>
+    <isbn>666</isbn>
+    <hinta>5</hinta>
+    <biisit>
+      <biisi>r</biisi>
+      <biisi>t</biisi>
+      <biisi>y</biisi>
+      <biisi>u</biisi>
+    </biisit>
+  </cd>
+  
+  
+  
+</cds>

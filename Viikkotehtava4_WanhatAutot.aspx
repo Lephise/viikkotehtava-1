@@ -9,7 +9,7 @@
     <asp:Button ID="button" runat="server" Text="Näytä kaikki autot" OnClick="button_Click"></asp:Button>
     <asp:RadioButton ID="asc" runat="server" Text="Nouseva" />
     <asp:RadioButton ID="desc" runat="server" Text="Laskeva" />
-    <asp:ListBox ID="merkit" runat="server"></asp:ListBox>
+    <asp:ListBox ID="merkit" runat="server" OnSelectedIndexChanged="merkit_SelectedIndexChanged"></asp:ListBox>
     <asp:Label ID="label1" runat="server"></asp:Label>
     <asp:Label ID="label2" runat="server"></asp:Label>
     
