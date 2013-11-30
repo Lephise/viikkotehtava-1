@@ -3,9 +3,30 @@
   <kysymys>
     <text>fafaf</text>
     <maara>4</maara>
-    <vaihtotehto>f2f2f</vaihtotehto>
-    <vaihtotehto>hhah</vaihtotehto>
-    <vaihtotehto>2h3</vaihtotehto>
-    <vaihtotehto>ab </vaihtotehto>
+    <vaihtotehto>
+      <vaiht>Vaihtoehto 1</vaiht>
+      <vastattu>7</vastattu>
+    </vaihtotehto>
+    <vaihtotehto>
+      <vaiht>Vaihtoehto 2</vaiht>
+      <vastattu>9</vastattu>
+    </vaihtotehto>
+    <vaihtotehto>
+      <vaiht>Vaihtoehto 3</vaiht>
+      <vastattu>6</vastattu>
+    </vaihtotehto>
+    <vaihtotehto>
+      <vaiht>Vaihtoehto 4</vaiht>
+      <vastattu>3</vastattu>
+    </vaihtotehto>
+    <vastauksia>0</vastauksia>
+  </kysymys>
+  <kysymys>
+    <text>safasfsafasfaf</text>
+    <maara>4</maara>
+    <vaihtotehto>afafaf</vaihtotehto>
+    <vaihtotehto>afa</vaihtotehto>
+    <vaihtotehto>afaf</vaihtotehto>
+    <vaihtotehto>afafaf</vaihtotehto>
   </kysymys>
 </kysymykset>
